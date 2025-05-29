@@ -1,0 +1,11 @@
+# Sanskrit Programming Language - Dependencies
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python 3.6+ is recommended for optimal performance
+# Built-in modules used:
+# - re (regular expressions)
+# - builtins (built-in functions)
+
+# For development/testing (optional):
+# pytest>=6.0.0
