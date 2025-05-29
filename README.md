@@ -18,7 +18,8 @@ No external dependencies required! Uses only Python standard library.
 
 ```bash
 # Clone or download the project
-cd sanskrit_lang
+git clone https://github.com/SanketKumarKar/Sanskrit-As-Coding-Language.git
+cd Sanskrit-As-Coding-Language
 
 # Run the transpiler directly
 python transpiler.py
