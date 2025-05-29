@@ -69,7 +69,7 @@
 ## 📁 **File Structure**
 
 ```
-sanskrit_lang/
+Sanskrit-As-Programming-Language/
 ├── transpiler.py                   # 🎯 MAIN TRANSPILER (Final Version)
 ├── demo.py                         # Basic demo
 ├── complete_demo.py               # Comprehensive demo  
